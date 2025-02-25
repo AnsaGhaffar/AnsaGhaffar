@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Class no 2</title>
+</head>
+<body>
+    <table border="1" cellpadding="10" cellspacing="20" bgcolor="#efefef">
+        <thead>
+            <tr>
+                <th bgcolor="Sky Blue">ID</th>
+                <th colspan="3" rowspan="3" bgcolor="Sky Blue">Name</th>
+                <th bgcolor="Sky Blue">Roll No</th>
+                <th bgcolor="Sky Blue">Subject</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>1</td>
+                <td colspan="3">Amna</td>
+                <td>123</td>
+                <td>Math </td>
+
+            </tr>
+            <tr>
+                <td>2</td>
+                <td colspan="3">Ansa</td>
+                <td>124</td>
+                <td>Math </td>
+
+            </tr>
+        </tbody>
+        <tfoot>
+            <tr>
+                <td>3</td>
+                <td colspan="3">Aqsa</td>
+                <td>125</td>
+                <td>Math </td>
+            </tr>
+        </tfoot>
+    </table>
+</body>
+</html>
